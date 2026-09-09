@@ -40,8 +40,3 @@ include::_whatsnew/2026-07-13_data-services-backup-recovery.adoc[leveloffset=+1]
 include::_include/data-services-backup-recovery.adoc[]
 include::_whatsnew/2026-06-15_data-services-backup-recovery.adoc[leveloffset=+1]
 
-## 08 June 2026 
-
-include::_include/data-services-backup-recovery.adoc[]
-include::_whatsnew/2026-06-08_data-services-backup-recovery.adoc[leveloffset=+1]
-
