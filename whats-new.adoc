@@ -18,6 +18,11 @@ Learn about the most recent changes to the features and data services that are p
 
 
 // end local content
+## 26 October 2026 
+
+include::_include/data-services-backup-recovery.adoc[]
+include::_whatsnew/2026-10-26_data-services-backup-recovery.adoc[leveloffset=+1]
+
 ## 19 October 2026 
 
 include::_include/data-services-backup-recovery.adoc[]
